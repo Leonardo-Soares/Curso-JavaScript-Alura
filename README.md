@@ -13,3 +13,6 @@ Resumo da Aula 1
 * A representação do HTML pela variável document
 * A função que faz busca querySelector()
 * Preferir selecionar por #id ou .classe
+
+
+https://onextrapixel.com/html5-imports-embedding-an-html-file-inside-another-html-file/
