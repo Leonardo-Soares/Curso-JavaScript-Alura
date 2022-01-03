@@ -9,6 +9,19 @@
 var titulo_menu = document.querySelector(".titulo-menu");
 titulo_menu.textContent = "Alessandra Monteiro";
 
+var url_atual = window.location.href;
+
+
+if (url_atual == '%','index.html'){
+    console.log('essa');
+} else if (url_atual == '%','sobre.html') {
+    console.log('outra');
+} else {
+    console.log('erro');
+}
+
+console.log(url_atual);
+
 
 
 var cliente = document.querySelector("#primeiro-paciente");
